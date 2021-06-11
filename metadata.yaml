@@ -1,11 +1,16 @@
 _repo: Hilda-van-Suylenburg_65536
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Donk, Cécile de Jong van Beek en
     gutenberg_agent_id: '53392'
     url: http://www.gutenberg.org/2009/agents/53392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65536#Hilda-van-Suylenburg
 gutenberg_issued: '2021-06-05'
 gutenberg_type: Text
 identifiers:
